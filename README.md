@@ -2,6 +2,8 @@
 
 技术博客：[https://github.com/Li-ZhuoHang/Subsurface_scattering)](https://github.com/Li-ZhuoHang/Subsurface_scattering)
 
+视频效果：[2024技术美术暑假实习生作品集_哔哩哔哩bilibili](https://www.bilibili.com/video/BV11x4y1P7YM/)****
+
 ### 基于屏幕空间模糊的次表面散射(SSSSS)：
 
 #### 效果展示：
